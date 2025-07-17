@@ -1,0 +1,3 @@
+This is the documentation for the backend part of the twodo application
+here we have our backend that we are going to be creating using nest.js
+what the fuck is nest.js? I don't know but we shall figure out: All I had to do was type in the command and it generated a bunch of files that I don't really know what they are, we are going to figure it out as we go tho XD
